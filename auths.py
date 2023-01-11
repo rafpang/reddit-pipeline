@@ -1,0 +1,5 @@
+NAME = "rafpang"
+DEVELOERS = "Certified_Introvert"
+RU = "http://localhost:8080"
+SECRET = "lhmXvFOeX2lgE12P8OmB0-cub-lqJw"
+CID = "rKAK_5lS0TRsNuKSgZqcMA"
